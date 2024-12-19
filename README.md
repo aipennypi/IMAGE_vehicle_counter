@@ -1,10 +1,3 @@
-
-Here’s a detailed explanation for your GitHub repository README:
-
-Vehicle Counting System using OpenCV and Dlib
-This project is designed to count vehicles entering and exiting a predefined region in a video. The system utilizes computer vision techniques such as background subtraction, contour detection, and object tracking to detect and track vehicles. This is particularly useful for traffic monitoring and analysis.
-
-
 Here’s a detailed explanation for your GitHub repository README:
 
 Vehicle Counting System using OpenCV and Dlib
